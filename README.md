@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Splitxorpio
+- I like cheese
+- I like web developing
+- I love doing hackathons with a team
