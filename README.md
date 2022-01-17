@@ -8,5 +8,3 @@
   <li> LinkedIn: <a href="https://www.linkedin.com/in/arnav-pandey-985280227/"> Beautiful Link </a> </li>
   <li> Devpost: <a href="https://devpost.com/Split?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"> Beautiful Link </a> </li>
  </ul>
- [![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splitxorpio)](https://github.com/anuraghazra/github-readme-stats)
-
