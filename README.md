@@ -17,4 +17,6 @@
   <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></li>
   
 </ul>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"></img>
+<h3>My Stats!</h3>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=splitxorpio&show_icons=true&theme=radical"></img>
