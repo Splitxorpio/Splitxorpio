@@ -18,8 +18,6 @@
   
 </ul>
 <h3>My Stats!</h3>
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=splitxorpio&show_icons=true&theme=radical"></img>
 <h3>I use this browser: </h3>
 <hr>
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"></img>
